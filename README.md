@@ -95,6 +95,30 @@ pip install opencv-python mediapipe numpy pyautogui pynput
 
 ---
 
+## ⚡ Performance Optimization
+
+- Optimized gesture recognition pipeline for faster execution.
+- Reduced latency in hand tracking using multi-threading.
+- Improved accuracy with adaptive gesture classification models.
+
+---
+
+## 🔒 Security Considerations
+
+- Ensured secure handling of user input to prevent unintended actions.
+- Incorporated safeguards to minimize false-positive detections.
+- Adhered to privacy guidelines for camera-based applications.
+
+---
+
+## 🚧 Challenges Faced
+
+- Difficulty in differentiating between similar hand gestures.
+- Handling lighting variations affecting hand detection.
+- Reducing CPU and memory consumption for real-time performance.
+
+---
+
 ## 🚀 Future Enhancements
 
 - [ ] Integrate voice command support
