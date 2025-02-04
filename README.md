@@ -1,6 +1,6 @@
 # 🚀 AI-Driven Virtual Keyboard and Mouse Using Computer Vision
 
-![Virtual Keyboard and Mouse](https://your-image-url.com)
+---
 
 ## 📌 Overview
 
