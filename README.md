@@ -125,6 +125,6 @@ This project is distributed under the **MIT License**.
 
 For inquiries, contributions, or collaborations, reach out via:
 - **Email**: lokeshv2403@gmail.com
-- **GitHub**: [your-username](https://github.com/lokeshvloki)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/lokesh-v-13873a284)
+- **GitHub**: [lokeshvloki](https://github.com/lokeshvloki)
+- **LinkedIn**: [Lokesh V](https://linkedin.com/in/lokesh-v-13873a284)
 
