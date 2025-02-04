@@ -73,7 +73,7 @@ pip install opencv-python mediapipe numpy pyautogui pynput
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/virtual-keyboard-mouse.git
+   git clone https://github.com/lokeshvloki/virtual-keyboard-mouse.git
    cd virtual-keyboard-mouse
    ```
 
@@ -124,10 +124,7 @@ This project is distributed under the **MIT License**.
 ## 📬 Contact
 
 For inquiries, contributions, or collaborations, reach out via:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/your-profile)
+- **Email**: lokeshv2403@gmail.com
+- **GitHub**: [your-username](https://github.com/lokeshvloki)
+- **LinkedIn**: [Your Profile]([https://linkedin.com/in/your-profile](https://linkedin.com/in/lokesh-v-13873a284))
 
----
-
-**Developed with ❤️ by [Your Name](https://github.com/your-username)**
